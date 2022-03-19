@@ -1,0 +1,653 @@
+							Testul 3
+			Aventura jucatorilor Daniel si UnAntrenorEchilibrat incepe:
+
+TrainerReady{trainer=
+		Trainer{name='Daniel', age=27, pokemons=[Jigglypuff, Pikachu, Vulpix], items=[Scut.Vestă.Vitamine, Baghetă Magică.Pelerină.Brad de Crăciun, Pelerină.Vitamine.Baghetă Magică]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=52, normalAttack=12, specialAttack=0, defense=10, specialDefense=11, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}, PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=17, defense=13, specialDefense=16, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=41, normalAttack=10, specialAttack=0, defense=5, specialDefense=10, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='UnAntrenorEchilibrat', age=20, pokemons=[Snorlax, Squirtle, Charmander], items=[Săbiuță.Baghetă Magică, Brad de Crăciun.Săbiuță, Vestă.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Snorlax', HP=62, normalAttack=6, specialAttack=0, defense=6, specialDefense=4, ability1=Ability{dmg=4, stun=true, dodge=false, cd=5}, ability2=Ability{dmg=0, stun=false, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Squirtle', HP=60, normalAttack=0, specialAttack=3, defense=6, specialDefense=5, ability1=Ability{dmg=4, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=2}}, PokemonReady{pokemon=
+			Pokemon{name='Charmander', HP=60, normalAttack=4, specialAttack=0, defense=5, specialDefense=4, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=7, stun=false, dodge=false, cd=6}}], nrPokemon=3}
+
+
+	Intra in arena: Jigglypuff si Snorlax
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 52 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - abilitate 1
+Neutrel1 - atac normal
+Jigglypuff - 52 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Neutrel1 - 6 HP
+
+Jigglypuff - atac normal
+Neutrel1 nu face nimic!
+Jigglypuff - 52 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Snorlax - 62 HP cu Neutrel1 - 10 HP
+
+Snorlax - abilitate 2
+Neutrel1 - atac normal
+Snorlax - 62 HP - abilitate2 cooldown: 5
+Neutrel1 - 10 HP
+
+Snorlax - abilitate 1
+Neutrel1 - atac normal
+Snorlax - 62 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 4
+Neutrel1 - 6 HP
+
+Snorlax - atac normal
+Neutrel1 nu face nimic!
+Snorlax - 62 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Neutrel1 - 1 HP
+
+Snorlax - atac normal
+Neutrel1 - atac normal
+Snorlax - 62 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Neutrel1 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 53 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - abilitate 2
+Neutrel1 - atac normal
+Jigglypuff - 53 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Neutrel1 - 7 HP
+
+Jigglypuff - atac normal
+Neutrel1 nu face nimic!
+Jigglypuff - 53 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Snorlax - 63 HP cu Neutrel1 - 10 HP
+
+Snorlax - atac normal
+Neutrel1 - atac normal
+Snorlax - 63 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Neutrel1 - 4 HP
+
+Snorlax - atac normal
+Neutrel1 - atac normal
+Snorlax - 63 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Neutrel1 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 54 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - atac normal
+Neutrel1 - atac normal
+Jigglypuff - 54 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Snorlax - 64 HP cu Neutrel1 - 10 HP
+
+Snorlax - abilitate 2
+Neutrel1 - atac normal
+Snorlax - 64 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Neutrel1 - 10 HP
+
+Snorlax - abilitate 1
+Neutrel1 - atac normal
+Snorlax - 64 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 4
+Neutrel1 - 6 HP
+
+Snorlax - atac normal
+Neutrel1 nu face nimic!
+Snorlax - 64 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Au ajuns in batalia finala:
+	Se lupta Jigglypuff - 55 HP cu Snorlax - 65 HP
+
+Jigglypuff - abilitate 1
+Snorlax - atac normal
+Jigglypuff - 55 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Snorlax - 61 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Snorlax nu face nimic!
+Jigglypuff - 55 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Snorlax - 55 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+
+Jigglypuff - atac normal
+Snorlax - atac normal
+Jigglypuff - 55 HP - abilitate1 cooldown: 2
+Snorlax - 49 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Snorlax - abilitate 2
+Jigglypuff - 55 HP - abilitate1 cooldown: 1
+Snorlax - 49 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+
+Jigglypuff - abilitate 2
+Snorlax - atac normal
+Jigglypuff - 55 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Snorlax - 46 HP - abilitate2 cooldown: 4
+
+Jigglypuff - abilitate 1
+Snorlax nu face nimic!
+Jigglypuff - 55 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Snorlax - 42 HP - abilitate2 cooldown: 3
+
+Jigglypuff - atac normal
+Snorlax - abilitate 1
+Jigglypuff - 51 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Snorlax - 36 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 2
+
+Jigglypuff nu face nimic!
+Snorlax - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Snorlax - 36 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+
+Jigglypuff - atac normal
+Snorlax - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Snorlax - 30 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Snorlax - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 0
+Snorlax - 24 HP - abilitate1 cooldown: 2
+
+Jigglypuff - abilitate 1
+Snorlax - abilitate 2
+Jigglypuff - 51 HP - abilitate1 cooldown: 4
+Snorlax - 24 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+
+Jigglypuff - abilitate 2
+Snorlax - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 4
+Snorlax - 21 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+
+Jigglypuff - atac normal
+Snorlax nu face nimic!
+Jigglypuff - 51 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Snorlax - 15 HP - abilitate2 cooldown: 3
+
+Jigglypuff - atac normal
+Snorlax - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Snorlax - 9 HP - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Snorlax - abilitate 1
+Jigglypuff - 47 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Snorlax - 3 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 1
+
+Jigglypuff nu face nimic!
+Snorlax - atac normal
+Jigglypuff - 47 HP - abilitate2 cooldown: 0
+Snorlax - 3 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Snorlax - atac normal
+Jigglypuff - 47 HP
+Snorlax - 0 HP - abilitate1 cooldown: 3
+
+	Batalie castigata de Jigglypuff
+
+	Intra in arena: Pikachu si Squirtle
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 45 HP cu Neutrel2 - 20 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 45 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Neutrel2 - 4 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 45 HP - abilitate2 cooldown: 2
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Squirtle - 60 HP cu Neutrel2 - 20 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 60 HP
+Neutrel2 - 18 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 60 HP - abilitate2 cooldown: 2
+Neutrel2 - 16 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 60 HP - abilitate2 cooldown: 1
+Neutrel2 - 14 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 60 HP - abilitate2 cooldown: 0
+Neutrel2 - 12 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 60 HP
+Neutrel2 - 10 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 60 HP
+Neutrel2 - 8 HP
+
+Squirtle - abilitate 1
+Neutrel2 - atac normal
+Squirtle - 60 HP - abilitate1 cooldown: 3
+Neutrel2 - 4 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 60 HP - abilitate1 cooldown: 2
+Neutrel2 - 2 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 60 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 46 HP cu Neutrel2 - 20 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 46 HP - abilitate2 cooldown: 1
+Neutrel2 - 3 HP
+
+Pikachu - abilitate 1
+Neutrel2 - atac normal
+Pikachu - 46 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Squirtle - 61 HP cu Neutrel2 - 20 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 61 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Neutrel2 - 17 HP
+
+Squirtle - abilitate 1
+Neutrel2 - atac normal
+Squirtle - 61 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel2 - 13 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 61 HP - abilitate1 cooldown: 2
+Neutrel2 - 10 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 61 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Neutrel2 - 8 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 61 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Neutrel2 - 5 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 61 HP - abilitate2 cooldown: 0
+Neutrel2 - 2 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 61 HP
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 47 HP cu Neutrel2 - 20 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 47 HP - abilitate1 cooldown: 3
+Neutrel2 - 2 HP
+
+Pikachu - abilitate 2
+Neutrel2 - atac normal
+Pikachu - 47 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Squirtle - 62 HP cu Neutrel2 - 20 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 62 HP
+Neutrel2 - 16 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 62 HP - abilitate2 cooldown: 2
+Neutrel2 - 14 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 62 HP - abilitate2 cooldown: 1
+Neutrel2 - 10 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 62 HP - abilitate2 cooldown: 0
+Neutrel2 - 6 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 62 HP
+Neutrel2 - 2 HP
+
+Squirtle - abilitate 1
+Neutrel2 - atac normal
+Squirtle - 62 HP - abilitate1 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 48 HP cu Neutrel2 - 20 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 48 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Neutrel2 - 1 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 48 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Squirtle - 63 HP cu Neutrel2 - 20 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 63 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Neutrel2 - 18 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 63 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Neutrel2 - 13 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 63 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Neutrel2 - 8 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 63 HP
+Neutrel2 - 3 HP
+
+Squirtle - abilitate 1
+Neutrel2 - atac normal
+Squirtle - 63 HP - abilitate1 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Au ajuns in batalia finala:
+	Se lupta Pikachu - 49 HP cu Squirtle - 64 HP
+
+Pikachu - atac special
+Squirtle - atac special
+Pikachu - 49 HP - abilitate2 cooldown: 2
+Squirtle - 52 HP - abilitate1 cooldown: 2
+
+Pikachu - atac special
+Squirtle - atac special
+Pikachu - 49 HP - abilitate2 cooldown: 1
+Squirtle - 40 HP - abilitate1 cooldown: 1
+
+Pikachu - atac special
+Squirtle - abilitate 2
+Pikachu - 47 HP - abilitate2 cooldown: 0
+Squirtle - 28 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Pikachu nu face nimic!
+Squirtle - atac special
+Pikachu - 47 HP
+Squirtle - 28 HP - abilitate2 cooldown: 1
+
+Pikachu - abilitate 2
+Squirtle - abilitate 1
+Pikachu - 47 HP - abilitate2 cooldown: 5
+Squirtle - 24 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Squirtle nu face nimic!
+Pikachu - 47 HP - abilitate2 cooldown: 4
+Squirtle - 12 HP - abilitate1 cooldown: 2
+
+Pikachu - atac special
+Squirtle - abilitate 2
+Pikachu - 45 HP - abilitate2 cooldown: 3
+Squirtle - 0 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+	Batalie castigata de Pikachu
+
+	Intra in arena: Vulpix si Charmander
+		Incep luptele cu Neutrel2
+
+	Se lupta Vulpix - 41 HP cu Neutrel2 - 20 HP
+
+Vulpix - atac normal
+Neutrel2 - atac normal
+Vulpix - 41 HP - abilitate2 cooldown: 2
+Neutrel2 - 11 HP
+
+Vulpix - abilitate 1
+Neutrel2 - atac normal
+Vulpix - 41 HP - abilitate1 cooldown: 6 - abilitate2 cooldown: 1
+Neutrel2 - 3 HP
+
+Vulpix - atac normal
+Neutrel2 nu face nimic!
+Vulpix - 41 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Vulpix
+
+	Se lupta Charmander - 50 HP cu Neutrel2 - 20 HP
+
+Charmander - atac normal
+Neutrel2 - atac normal
+Charmander - 50 HP
+Neutrel2 - 17 HP
+
+Charmander - abilitate 1
+Neutrel2 - atac normal
+Charmander - 50 HP - abilitate1 cooldown: 4
+Neutrel2 - 13 HP
+
+Charmander - abilitate 2
+Neutrel2 nu face nimic!
+Charmander - 50 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 6
+Neutrel2 - 6 HP
+
+Charmander - atac normal
+Neutrel2 - atac normal
+Charmander - 50 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+Neutrel2 - 3 HP
+
+Charmander - atac normal
+Neutrel2 - atac normal
+Charmander - 50 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Neutrel2 - 0 HP
+
+	Batalie castigata de Charmander
+
+		Au ajuns in batalia finala:
+	Se lupta Vulpix - 42 HP cu Charmander - 61 HP
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 42 HP - abilitate1 cooldown: 4
+Charmander - 56 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+Vulpix - abilitate 2
+Charmander - abilitate 1
+Vulpix - 42 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 7
+Charmander - 54 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 42 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 6
+Charmander - 49 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 42 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+Charmander - 44 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 42 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Charmander - 39 HP - abilitate1 cooldown: 1
+
+Vulpix - abilitate 1
+Charmander - atac normal
+Vulpix - 42 HP - abilitate1 cooldown: 6 - abilitate2 cooldown: 3
+Charmander - 31 HP - abilitate1 cooldown: 0
+
+Vulpix - atac normal
+Charmander nu face nimic!
+Vulpix - 42 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 2
+Charmander - 26 HP
+
+Vulpix - atac normal
+Charmander - abilitate 1
+Vulpix - 38 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Charmander - 21 HP - abilitate1 cooldown: 4
+
+Vulpix nu face nimic!
+Charmander - atac normal
+Vulpix - 38 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Charmander - 21 HP - abilitate1 cooldown: 3
+
+Vulpix - abilitate 2
+Charmander - atac normal
+Vulpix - 38 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 7
+Charmander - 19 HP - abilitate1 cooldown: 2
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 38 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 6
+Charmander - 14 HP - abilitate1 cooldown: 1
+
+Vulpix - atac normal
+Charmander - atac normal
+Vulpix - 38 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Charmander - 9 HP - abilitate1 cooldown: 0
+
+Vulpix - abilitate 1
+Charmander - atac normal
+Vulpix - 38 HP - abilitate1 cooldown: 6 - abilitate2 cooldown: 4
+Charmander - 1 HP
+
+Vulpix - atac normal
+Charmander nu face nimic!
+Vulpix - 38 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 3
+Charmander - 0 HP
+
+	Batalie castigata de Vulpix
+
+---Cel mai bun pokemon al lui Daniel este Pikachu
+---Cel mai bun pokemon al lui UnAntrenorEchilibrat este Snorlax
+
+	Se lupta Pikachu - 50 HP cu Snorlax - 65 HP
+
+Pikachu - abilitate 1
+Snorlax - atac normal
+Pikachu - 50 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Snorlax - 59 HP - abilitate1 cooldown: 2
+
+Pikachu - atac special
+Snorlax - atac normal
+Pikachu - 50 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Snorlax - 44 HP - abilitate1 cooldown: 1
+
+Pikachu - atac special
+Snorlax - abilitate 2
+Pikachu - 50 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Snorlax - 44 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+
+Pikachu - atac special
+Snorlax - atac normal
+Pikachu - 50 HP - abilitate1 cooldown: 1
+Snorlax - 29 HP - abilitate2 cooldown: 4
+
+Pikachu - abilitate 2
+Snorlax - atac normal
+Pikachu - 50 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Snorlax - 25 HP - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Snorlax nu face nimic!
+Pikachu - 50 HP - abilitate2 cooldown: 4
+Snorlax - 10 HP - abilitate2 cooldown: 2
+
+Pikachu - abilitate 1
+Snorlax - atac normal
+Pikachu - 50 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Snorlax - 4 HP - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Snorlax - abilitate 1
+Pikachu - 46 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Snorlax - 0 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+
+	Batalie castigata de Pikachu
+
+				Daniel A CASTIGAT!
+
+TrainerReady{trainer=
+		Trainer{name='Daniel', age=27, pokemons=[Jigglypuff, Pikachu, Vulpix], items=[Scut.Vestă.Vitamine, Baghetă Magică.Pelerină.Brad de Crăciun, Pelerină.Vitamine.Baghetă Magică]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=56, normalAttack=16, specialAttack=0, defense=14, specialDefense=15, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}, PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=51, normalAttack=0, specialAttack=23, defense=19, specialDefense=22, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=43, normalAttack=12, specialAttack=0, defense=7, specialDefense=12, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='UnAntrenorEchilibrat', age=20, pokemons=[Snorlax, Squirtle, Charmander], items=[Săbiuță.Baghetă Magică, Brad de Crăciun.Săbiuță, Vestă.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Snorlax', HP=65, normalAttack=9, specialAttack=0, defense=9, specialDefense=7, ability1=Ability{dmg=4, stun=true, dodge=false, cd=5}, ability2=Ability{dmg=0, stun=false, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Squirtle', HP=64, normalAttack=0, specialAttack=7, defense=10, specialDefense=9, ability1=Ability{dmg=4, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=2}}, PokemonReady{pokemon=
+			Pokemon{name='Charmander', HP=61, normalAttack=5, specialAttack=0, defense=6, specialDefense=5, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=7, stun=false, dodge=false, cd=6}}], nrPokemon=3}
+
+

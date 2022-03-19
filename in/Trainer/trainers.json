@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Daniel",
+    "age": 27,
+    "pokemons": ["Jigglypuff","Pikachu", "Vulpix"],
+    "items": ["Scut.Vestă.Vitamine",
+      "Baghetă Magică.Pelerină.Brad de Crăciun",
+      "Pelerină.Vitamine.Baghetă Magică"]
+  },
+  {
+    "name": "AntrenorFaraItems",
+    "age": 23,
+    "pokemons": ["Pikachu", "Vulpix", "Jigglypuff", "Eevee"],
+    "items": []
+  },
+  {
+    "name": "AntrenorulFaraExperienta",
+    "age": 10,
+    "pokemons": ["Psyduck", "Meowth", "Eevee"],
+    "items": ["Brad de Crăciun.Săbiuță",
+      "Vitamine.Vestă.Scut",
+      "Vestă.Baghetă Magică.Scut"]
+  },
+  {
+    "name": "UnAntrenorEchilibrat",
+    "age": 20,
+    "pokemons": ["Snorlax", "Squirtle", "Charmander"],
+    "items": ["Săbiuță.Baghetă Magică",
+      "Brad de Crăciun.Săbiuță",
+      "Vestă.Scut"]
+  },
+  {
+    "name": "CelMaiInteresantAntrenor",
+    "age": 30,
+    "pokemons": ["Bulbasaur", "Pikachu", "Snorlax"],
+    "items": ["Pelerină.Scut.Vitamine",
+      "Baghetă Magică.Vestă.Scut",
+      "Brad de Crăciun.Vestă.Vitamine"]
+  }
+]

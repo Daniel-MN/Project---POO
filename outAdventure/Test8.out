@@ -1,0 +1,963 @@
+							Testul 8
+			Aventura jucatorilor AntrenorulFaraExperienta si UnAntrenorEchilibrat incepe:
+
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=43, normalAttack=9, specialAttack=0, defense=4, specialDefense=3, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=60, normalAttack=12, specialAttack=0, defense=13, specialDefense=11, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=58, normalAttack=0, specialAttack=16, defense=14, specialDefense=14, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='UnAntrenorEchilibrat', age=20, pokemons=[Snorlax, Squirtle, Charmander], items=[Săbiuță.Baghetă Magică, Brad de Crăciun.Săbiuță, Vestă.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Snorlax', HP=72, normalAttack=16, specialAttack=0, defense=16, specialDefense=14, ability1=Ability{dmg=4, stun=true, dodge=false, cd=5}, ability2=Ability{dmg=0, stun=false, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Squirtle', HP=68, normalAttack=0, specialAttack=11, defense=14, specialDefense=13, ability1=Ability{dmg=4, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=2}}, PokemonReady{pokemon=
+			Pokemon{name='Charmander', HP=63, normalAttack=7, specialAttack=0, defense=8, specialDefense=7, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=7, stun=false, dodge=false, cd=6}}], nrPokemon=3}
+
+
+	Intra in arena: Psyduck si Snorlax
+		Incep luptele cu Neutrel1
+
+	Se lupta Psyduck - 43 HP cu Neutrel1 - 10 HP
+
+Psyduck - atac normal
+Neutrel1 - atac normal
+Psyduck - 43 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Neutrel1 - 2 HP
+
+Psyduck - atac normal
+Neutrel1 - atac normal
+Psyduck - 43 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Psyduck
+
+	Se lupta Snorlax - 72 HP cu Neutrel1 - 10 HP
+
+Snorlax - abilitate 2
+Neutrel1 - atac normal
+Snorlax - 72 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 5
+Neutrel1 - 10 HP
+
+Snorlax - atac normal
+Neutrel1 - atac normal
+Snorlax - 72 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 4
+Neutrel1 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Psyduck - 44 HP cu Neutrel1 - 10 HP
+
+Psyduck - atac normal
+Neutrel1 - atac normal
+Psyduck - 44 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel1 - 1 HP
+
+Psyduck - atac normal
+Neutrel1 - atac normal
+Psyduck - 44 HP - abilitate2 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Psyduck
+
+	Se lupta Snorlax - 73 HP cu Neutrel1 - 10 HP
+
+Snorlax - atac normal
+Neutrel1 - atac normal
+Snorlax - 73 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Psyduck - 45 HP cu Neutrel2 - 20 HP
+
+Psyduck - atac normal
+Neutrel2 - atac normal
+Psyduck - 45 HP - abilitate2 cooldown: 0
+Neutrel2 - 10 HP
+
+Psyduck - abilitate 1
+Neutrel2 - atac normal
+Psyduck - 45 HP - abilitate1 cooldown: 4
+Neutrel2 - 8 HP
+
+Psyduck - atac normal
+Neutrel2 - atac normal
+Psyduck - 45 HP - abilitate1 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Psyduck
+
+	Se lupta Snorlax - 74 HP cu Neutrel2 - 20 HP
+
+Snorlax - atac normal
+Neutrel2 - atac normal
+Snorlax - 74 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Neutrel2 - 3 HP
+
+Snorlax - atac normal
+Neutrel2 - atac normal
+Snorlax - 74 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Snorlax
+
+		Au ajuns in batalia finala:
+	Se lupta Psyduck - 46 HP cu Snorlax - 75 HP
+
+Psyduck - atac normal
+Snorlax - abilitate 1
+Psyduck - 42 HP - abilitate1 cooldown: 2
+Snorlax - 75 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+
+Psyduck nu face nimic!
+Snorlax - atac normal
+Psyduck - 30 HP - abilitate1 cooldown: 1
+Snorlax - 75 HP - abilitate1 cooldown: 4
+
+Psyduck - abilitate 2
+Snorlax - abilitate 2
+Psyduck - 30 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Snorlax - 75 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 5
+
+Psyduck - abilitate 1
+Snorlax - atac normal
+Psyduck - 18 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 4
+Snorlax - 73 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+
+Psyduck - atac normal
+Snorlax - atac normal
+Psyduck - 6 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Snorlax - 73 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+Psyduck - atac normal
+Snorlax - atac normal
+Psyduck - 0 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Snorlax - 73 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+	Batalie castigata de Snorlax
+
+	Intra in arena: Meowth si Squirtle
+		Incep luptele cu Neutrel2
+
+	Se lupta Meowth - 60 HP cu Neutrel2 - 20 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 60 HP - abilitate1 cooldown: 0
+Neutrel2 - 9 HP
+
+Meowth - abilitate 1
+Neutrel2 - atac normal
+Meowth - 60 HP - abilitate1 cooldown: 4
+Neutrel2 - 4 HP
+
+Meowth - abilitate 2
+Neutrel2 - atac normal
+Meowth - 60 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Neutrel2 - 3 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 60 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Neutrel2 - 0 HP
+
+	Batalie castigata de Meowth
+
+	Se lupta Squirtle - 68 HP cu Neutrel2 - 20 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 68 HP - abilitate1 cooldown: 1
+Neutrel2 - 10 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 68 HP - abilitate1 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Meowth - 61 HP cu Neutrel2 - 20 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 61 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Neutrel2 - 8 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 61 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Meowth
+
+	Se lupta Squirtle - 69 HP cu Neutrel2 - 20 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 69 HP - abilitate2 cooldown: 2
+Neutrel2 - 18 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 69 HP - abilitate2 cooldown: 1
+Neutrel2 - 7 HP
+
+Squirtle - abilitate 1
+Neutrel2 - atac normal
+Squirtle - 69 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel2 - 3 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 69 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Neutrel2 - 1 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 69 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Meowth - 62 HP cu Neutrel1 - 10 HP
+
+Meowth - abilitate 1
+Neutrel1 - atac normal
+Meowth - 62 HP - abilitate1 cooldown: 4
+Neutrel1 - 5 HP
+
+Meowth - abilitate 2
+Neutrel1 - atac normal
+Meowth - 62 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Neutrel1 - 4 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 62 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Neutrel1 - 0 HP
+
+	Batalie castigata de Meowth
+
+	Se lupta Squirtle - 70 HP cu Neutrel1 - 10 HP
+
+Squirtle - atac special
+Neutrel1 - atac normal
+Squirtle - 70 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Neutrel1 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Meowth - 63 HP cu Neutrel2 - 20 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 63 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Neutrel2 - 6 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 63 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Meowth
+
+	Se lupta Squirtle - 71 HP cu Neutrel2 - 20 HP
+
+Squirtle - abilitate 2
+Neutrel2 - atac normal
+Squirtle - 71 HP - abilitate2 cooldown: 2
+Neutrel2 - 18 HP
+
+Squirtle - atac special
+Neutrel2 nu face nimic!
+Squirtle - 71 HP - abilitate2 cooldown: 1
+Neutrel2 - 5 HP
+
+Squirtle - atac special
+Neutrel2 - atac normal
+Squirtle - 71 HP - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Squirtle
+
+		Au ajuns in batalia finala:
+	Se lupta Meowth - 64 HP cu Squirtle - 72 HP
+
+Meowth - abilitate 1
+Squirtle - abilitate 1
+Meowth - 64 HP - abilitate1 cooldown: 4
+Squirtle - 67 HP - abilitate1 cooldown: 3
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 64 HP - abilitate1 cooldown: 3
+Squirtle - 67 HP - abilitate1 cooldown: 2
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 64 HP - abilitate1 cooldown: 2
+Squirtle - 67 HP - abilitate1 cooldown: 1
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 64 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Squirtle - 66 HP - abilitate1 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 64 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Squirtle - 66 HP
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 64 HP - abilitate2 cooldown: 1
+Squirtle - 66 HP
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 60 HP - abilitate2 cooldown: 0
+Squirtle - 66 HP - abilitate1 cooldown: 3
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 58 HP
+Squirtle - 66 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 58 HP
+Squirtle - 66 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 58 HP - abilitate1 cooldown: 4
+Squirtle - 61 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 58 HP - abilitate1 cooldown: 3
+Squirtle - 61 HP
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 58 HP - abilitate1 cooldown: 2
+Squirtle - 61 HP
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 56 HP - abilitate1 cooldown: 1
+Squirtle - 61 HP - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - abilitate 1
+Meowth - 52 HP - abilitate1 cooldown: 0
+Squirtle - 61 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 52 HP
+Squirtle - 61 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 52 HP - abilitate2 cooldown: 3
+Squirtle - 60 HP - abilitate1 cooldown: 1
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 52 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Squirtle - 55 HP - abilitate1 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 52 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Squirtle - 55 HP
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 52 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Squirtle - 55 HP
+
+Meowth - abilitate 2
+Squirtle - abilitate 2
+Meowth - 52 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Squirtle - 54 HP - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 48 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Squirtle - 54 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 48 HP - abilitate2 cooldown: 1
+Squirtle - 54 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 48 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Squirtle - 49 HP - abilitate1 cooldown: 1
+
+Meowth - abilitate 2
+Squirtle - abilitate 2
+Meowth - 48 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Squirtle - 48 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 48 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Squirtle - 48 HP - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 48 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Squirtle - 48 HP - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 48 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Squirtle - 48 HP
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 44 HP
+Squirtle - 48 HP - abilitate1 cooldown: 3
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 44 HP - abilitate2 cooldown: 3
+Squirtle - 47 HP - abilitate1 cooldown: 2
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 44 HP - abilitate2 cooldown: 2
+Squirtle - 47 HP - abilitate1 cooldown: 1
+
+Meowth - abilitate 1
+Squirtle - abilitate 2
+Meowth - 44 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Squirtle - 42 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 40 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Squirtle - 42 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 40 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Squirtle - 41 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 38 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Squirtle - 41 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 38 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Squirtle - 41 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 34 HP - abilitate2 cooldown: 0
+Squirtle - 41 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 32 HP
+Squirtle - 41 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 32 HP
+Squirtle - 41 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 32 HP - abilitate1 cooldown: 4
+Squirtle - 36 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Meowth - abilitate 2
+Squirtle - abilitate 1
+Meowth - 32 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Squirtle - 35 HP - abilitate1 cooldown: 3
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 30 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Squirtle - 35 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 30 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Squirtle - 35 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 30 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Squirtle - 35 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Meowth - abilitate 1
+Squirtle - abilitate 2
+Meowth - 30 HP - abilitate1 cooldown: 4
+Squirtle - 30 HP - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 26 HP - abilitate1 cooldown: 3
+Squirtle - 30 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 26 HP - abilitate1 cooldown: 2
+Squirtle - 30 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 24 HP - abilitate1 cooldown: 1
+Squirtle - 30 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 24 HP - abilitate1 cooldown: 0
+Squirtle - 30 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 24 HP
+Squirtle - 30 HP - abilitate2 cooldown: 0
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 24 HP - abilitate1 cooldown: 4
+Squirtle - 25 HP
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 24 HP - abilitate1 cooldown: 3
+Squirtle - 25 HP
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 24 HP - abilitate1 cooldown: 2
+Squirtle - 25 HP
+
+Meowth - abilitate 2
+Squirtle - abilitate 1
+Meowth - 24 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Squirtle - 24 HP - abilitate1 cooldown: 3
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 22 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Squirtle - 24 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 22 HP - abilitate2 cooldown: 1
+Squirtle - 24 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 22 HP - abilitate2 cooldown: 0
+Squirtle - 24 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Meowth - abilitate 1
+Squirtle - abilitate 2
+Meowth - 22 HP - abilitate1 cooldown: 4
+Squirtle - 19 HP - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 18 HP - abilitate1 cooldown: 3
+Squirtle - 19 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 18 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Squirtle - 18 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 16 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Squirtle - 18 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 16 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Squirtle - 18 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Meowth - abilitate 1
+Squirtle - atac special
+Meowth - 16 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Squirtle - 13 HP - abilitate2 cooldown: 0
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 16 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Squirtle - 12 HP
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 14 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Squirtle - 12 HP - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - abilitate 1
+Meowth - 10 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Squirtle - 12 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 10 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Squirtle - 12 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 10 HP
+Squirtle - 12 HP - abilitate1 cooldown: 1
+
+Meowth - abilitate 2
+Squirtle - abilitate 2
+Meowth - 10 HP - abilitate2 cooldown: 3
+Squirtle - 11 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 10 HP - abilitate2 cooldown: 2
+Squirtle - 11 HP - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 6 HP - abilitate2 cooldown: 1
+Squirtle - 11 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Squirtle - atac special
+Meowth - 6 HP - abilitate2 cooldown: 0
+Squirtle - 11 HP - abilitate1 cooldown: 2
+
+Meowth - abilitate 2
+Squirtle - atac special
+Meowth - 6 HP - abilitate2 cooldown: 3
+Squirtle - 10 HP - abilitate1 cooldown: 1
+
+Meowth - atac normal
+Squirtle - abilitate 2
+Meowth - 4 HP - abilitate2 cooldown: 2
+Squirtle - 10 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth nu face nimic!
+Squirtle - atac special
+Meowth - 4 HP - abilitate2 cooldown: 1
+Squirtle - 10 HP - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Squirtle - abilitate 1
+Meowth - 0 HP - abilitate2 cooldown: 0
+Squirtle - 10 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+	Batalie castigata de Squirtle
+
+	Intra in arena: Eevee si Charmander
+		Incep luptele cu Neutrel2
+
+	Se lupta Eevee - 58 HP cu Neutrel2 - 20 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 58 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Neutrel2 - 5 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 58 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Eevee
+
+	Se lupta Charmander - 63 HP cu Neutrel2 - 20 HP
+
+Charmander - atac normal
+Neutrel2 - atac normal
+Charmander - 63 HP - abilitate2 cooldown: 2
+Neutrel2 - 14 HP
+
+Charmander - abilitate 1
+Neutrel2 - atac normal
+Charmander - 63 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Neutrel2 - 10 HP
+
+Charmander - atac normal
+Neutrel2 nu face nimic!
+Charmander - 63 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel2 - 4 HP
+
+Charmander - abilitate 2
+Neutrel2 - atac normal
+Charmander - 63 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 6
+Neutrel2 - 0 HP
+
+	Batalie castigata de Charmander
+
+		Au ajuns in batalia finala:
+	Se lupta Eevee - 59 HP cu Charmander - 64 HP
+
+Eevee - abilitate 2
+Charmander - atac normal
+Eevee - 59 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Charmander - 61 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+
+Eevee - atac special
+Charmander nu face nimic!
+Eevee - 59 HP - abilitate2 cooldown: 2
+Charmander - 52 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+
+Eevee - abilitate 1
+Charmander - atac normal
+Eevee - 59 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Charmander - 47 HP - abilitate2 cooldown: 3
+
+Eevee - atac special
+Charmander - atac normal
+Eevee - 59 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Charmander - 38 HP - abilitate2 cooldown: 2
+
+Eevee - atac special
+Charmander - abilitate 1
+Eevee - 55 HP - abilitate1 cooldown: 1
+Charmander - 29 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+
+Eevee nu face nimic!
+Charmander - atac normal
+Eevee - 55 HP - abilitate1 cooldown: 0
+Charmander - 29 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Eevee - atac special
+Charmander - atac normal
+Eevee - 55 HP
+Charmander - 20 HP - abilitate1 cooldown: 2
+
+Eevee - abilitate 1
+Charmander - abilitate 2
+Eevee - 48 HP - abilitate1 cooldown: 3
+Charmander - 15 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 6
+
+Eevee - atac special
+Charmander - atac normal
+Eevee - 48 HP - abilitate1 cooldown: 2
+Charmander - 6 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+
+Eevee - atac special
+Charmander - abilitate 1
+Eevee - 44 HP - abilitate1 cooldown: 1
+Charmander - 0 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 4
+
+	Batalie castigata de Eevee
+
+---Cel mai bun pokemon al lui AntrenorulFaraExperienta este Meowth
+---Cel mai bun pokemon al lui UnAntrenorEchilibrat este Snorlax
+
+	Se lupta Meowth - 64 HP cu Snorlax - 76 HP
+
+Meowth - abilitate 1
+Snorlax - atac normal
+Meowth - 64 HP - abilitate1 cooldown: 4
+Snorlax - 71 HP - abilitate2 cooldown: 1
+
+Meowth - atac normal
+Snorlax - abilitate 1
+Meowth - 60 HP - abilitate1 cooldown: 3
+Snorlax - 71 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+
+Meowth nu face nimic!
+Snorlax - atac normal
+Meowth - 57 HP - abilitate1 cooldown: 2
+Snorlax - 71 HP - abilitate1 cooldown: 4
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 54 HP - abilitate1 cooldown: 1
+Snorlax - 71 HP - abilitate1 cooldown: 3
+
+Meowth - abilitate 2
+Snorlax - atac normal
+Meowth - 54 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Snorlax - 70 HP - abilitate1 cooldown: 2
+
+Meowth - atac normal
+Snorlax - abilitate 2
+Meowth - 54 HP - abilitate2 cooldown: 2
+Snorlax - 70 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 51 HP - abilitate2 cooldown: 1
+Snorlax - 70 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+
+Meowth - abilitate 1
+Snorlax - atac normal
+Meowth - 51 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Snorlax - 65 HP - abilitate2 cooldown: 3
+
+Meowth - abilitate 2
+Snorlax - atac normal
+Meowth - 51 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Snorlax - 64 HP - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Snorlax - abilitate 1
+Meowth - 47 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Snorlax - 64 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 1
+
+Meowth nu face nimic!
+Snorlax - atac normal
+Meowth - 44 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Snorlax - 64 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Snorlax - abilitate 2
+Meowth - 44 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Snorlax - 64 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 5
+
+Meowth - abilitate 2
+Snorlax - atac normal
+Meowth - 44 HP - abilitate2 cooldown: 3
+Snorlax - 63 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 41 HP - abilitate2 cooldown: 2
+Snorlax - 63 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 38 HP - abilitate2 cooldown: 1
+Snorlax - 63 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Snorlax - abilitate 1
+Meowth - 34 HP - abilitate2 cooldown: 0
+Snorlax - 63 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 1
+
+Meowth nu face nimic!
+Snorlax - atac normal
+Meowth - 31 HP
+Snorlax - 63 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 28 HP
+Snorlax - 63 HP - abilitate1 cooldown: 3
+
+Meowth - atac normal
+Snorlax - abilitate 2
+Meowth - 28 HP
+Snorlax - 63 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+
+Meowth - abilitate 1
+Snorlax - atac normal
+Meowth - 28 HP - abilitate1 cooldown: 4
+Snorlax - 58 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+
+Meowth - abilitate 2
+Snorlax - atac normal
+Meowth - 28 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Snorlax - 57 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 25 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Snorlax - 57 HP - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Snorlax - abilitate 1
+Meowth - 21 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Snorlax - 57 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 1
+
+Meowth nu face nimic!
+Snorlax - atac normal
+Meowth - 18 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Snorlax - 57 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Meowth - abilitate 1
+Snorlax - abilitate 2
+Meowth - 18 HP - abilitate1 cooldown: 4
+Snorlax - 57 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 5
+
+Meowth - abilitate 2
+Snorlax - atac normal
+Meowth - 18 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Snorlax - 56 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 15 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Snorlax - 56 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 12 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Snorlax - 56 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 9 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Snorlax - 56 HP - abilitate2 cooldown: 1
+
+Meowth - abilitate 2
+Snorlax - abilitate 1
+Meowth - 9 HP - abilitate2 cooldown: 3
+Snorlax - 55 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+
+Meowth - atac normal
+Snorlax - abilitate 2
+Meowth - 9 HP - abilitate2 cooldown: 2
+Snorlax - 55 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 5
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 6 HP - abilitate2 cooldown: 1
+Snorlax - 55 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 4
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 3 HP - abilitate2 cooldown: 0
+Snorlax - 55 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+
+Meowth - atac normal
+Snorlax - atac normal
+Meowth - 0 HP
+Snorlax - 55 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+	Batalie castigata de Snorlax
+
+				UnAntrenorEchilibrat A CASTIGAT!
+
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=46, normalAttack=12, specialAttack=0, defense=7, specialDefense=6, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=64, normalAttack=16, specialAttack=0, defense=17, specialDefense=15, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=60, normalAttack=0, specialAttack=18, defense=16, specialDefense=16, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='UnAntrenorEchilibrat', age=20, pokemons=[Snorlax, Squirtle, Charmander], items=[Săbiuță.Baghetă Magică, Brad de Crăciun.Săbiuță, Vestă.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Snorlax', HP=77, normalAttack=21, specialAttack=0, defense=21, specialDefense=19, ability1=Ability{dmg=4, stun=true, dodge=false, cd=5}, ability2=Ability{dmg=0, stun=false, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Squirtle', HP=73, normalAttack=0, specialAttack=16, defense=19, specialDefense=18, ability1=Ability{dmg=4, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=2}}, PokemonReady{pokemon=
+			Pokemon{name='Charmander', HP=64, normalAttack=8, specialAttack=0, defense=9, specialDefense=8, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=7, stun=false, dodge=false, cd=6}}], nrPokemon=3}
+
+

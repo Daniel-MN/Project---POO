@@ -1,0 +1,573 @@
+							Testul 5
+			Aventura jucatorilor AntrenorFaraItems si AntrenorulFaraExperienta incepe:
+
+TrainerReady{trainer=
+		Trainer{name='AntrenorFaraItems', age=23, pokemons=[Pikachu, Vulpix, Jigglypuff, Eevee], items=[]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=38, normalAttack=0, specialAttack=7, defense=5, specialDefense=6, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=37, normalAttack=6, specialAttack=0, defense=3, specialDefense=5, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}, PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=35, normalAttack=5, specialAttack=0, defense=3, specialDefense=4, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=43, normalAttack=9, specialAttack=0, defense=4, specialDefense=3, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=59, normalAttack=11, specialAttack=0, defense=12, specialDefense=10, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=49, normalAttack=0, specialAttack=7, defense=5, specialDefense=5, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+
+
+	Intra in arena: Pikachu si Psyduck
+		Au ajuns in batalia finala:
+	Se lupta Pikachu - 38 HP cu Psyduck - 43 HP
+
+Pikachu - atac special
+Psyduck - atac normal
+Pikachu - 34 HP - abilitate1 cooldown: 0
+Psyduck - 39 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Pikachu - abilitate 1
+Psyduck - abilitate 2
+Pikachu - 32 HP - abilitate1 cooldown: 4
+Psyduck - 33 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+
+Pikachu nu face nimic!
+Psyduck - atac normal
+Pikachu - 28 HP - abilitate1 cooldown: 3
+Psyduck - 33 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+
+Pikachu - atac special
+Psyduck - atac normal
+Pikachu - 24 HP - abilitate1 cooldown: 2
+Psyduck - 29 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+Pikachu - abilitate 2
+Psyduck - atac normal
+Pikachu - 24 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+Psyduck - 25 HP - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Psyduck nu face nimic!
+Pikachu - 24 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Psyduck - 21 HP - abilitate2 cooldown: 1
+
+Pikachu - abilitate 1
+Psyduck - atac normal
+Pikachu - 20 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Psyduck - 15 HP - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Psyduck - atac normal
+Pikachu - 16 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Psyduck - 11 HP
+
+Pikachu - atac special
+Psyduck - atac normal
+Pikachu - 12 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Psyduck - 7 HP
+
+Pikachu - atac special
+Psyduck - abilitate 1
+Pikachu - 10 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Psyduck - 3 HP - abilitate1 cooldown: 4
+
+Pikachu - atac special
+Psyduck - abilitate 2
+Pikachu - 8 HP - abilitate1 cooldown: 0
+Psyduck - 0 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 5
+
+	Batalie castigata de Pikachu
+
+	Intra in arena: Vulpix si Meowth
+		Au ajuns in batalia finala:
+	Se lupta Vulpix - 37 HP cu Meowth - 59 HP
+
+Vulpix - atac normal
+Meowth - atac normal
+Vulpix - 29 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Meowth - 59 HP - abilitate1 cooldown: 0
+
+Vulpix - abilitate 1
+Meowth - abilitate 1
+Vulpix - 24 HP - abilitate1 cooldown: 6 - abilitate2 cooldown: 2
+Meowth - 59 HP - abilitate1 cooldown: 4
+
+Vulpix - atac normal
+Meowth - atac normal
+Vulpix - 16 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 1
+Meowth - 59 HP - abilitate1 cooldown: 3
+
+Vulpix - atac normal
+Meowth - atac normal
+Vulpix - 8 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Meowth - 59 HP - abilitate1 cooldown: 2
+
+Vulpix - atac normal
+Meowth - atac normal
+Vulpix - 0 HP - abilitate1 cooldown: 3
+Meowth - 59 HP - abilitate1 cooldown: 1
+
+	Batalie castigata de Meowth
+
+	Intra in arena: Jigglypuff si Eevee
+		Incep luptele cu Neutrel2
+
+	Se lupta Jigglypuff - 35 HP cu Neutrel2 - 20 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 34 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Neutrel2 - 16 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 33 HP - abilitate2 cooldown: 2
+Neutrel2 - 12 HP
+
+Jigglypuff - abilitate 1
+Neutrel2 - atac normal
+Jigglypuff - 32 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Neutrel2 - 8 HP
+
+Jigglypuff - atac normal
+Neutrel2 nu face nimic!
+Jigglypuff - 32 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel2 - 4 HP
+
+Jigglypuff - abilitate 2
+Neutrel2 - atac normal
+Jigglypuff - 31 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Neutrel2 - 1 HP
+
+Jigglypuff - atac normal
+Neutrel2 nu face nimic!
+Jigglypuff - 31 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 49 HP cu Neutrel2 - 20 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 49 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel2 - 14 HP
+
+Eevee - abilitate 1
+Neutrel2 - atac normal
+Eevee - 49 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel2 - 9 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 49 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel2 - 3 HP
+
+Eevee - abilitate 2
+Neutrel2 - atac normal
+Eevee - 49 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 36 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - atac normal
+Neutrel1 - atac normal
+Jigglypuff - 36 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel1 - 5 HP
+
+Jigglypuff - abilitate 1
+Neutrel1 - atac normal
+Jigglypuff - 36 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Neutrel1 - 1 HP
+
+Jigglypuff - atac normal
+Neutrel1 nu face nimic!
+Jigglypuff - 36 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 50 HP cu Neutrel1 - 10 HP
+
+Eevee - atac special
+Neutrel1 - atac normal
+Eevee - 50 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel1 - 3 HP
+
+Eevee - abilitate 1
+Neutrel1 - atac normal
+Eevee - 50 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Jigglypuff - 37 HP cu Neutrel2 - 20 HP
+
+Jigglypuff - abilitate 2
+Neutrel2 - atac normal
+Jigglypuff - 37 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Neutrel2 - 17 HP
+
+Jigglypuff - atac normal
+Neutrel2 nu face nimic!
+Jigglypuff - 37 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel2 - 11 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 37 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel2 - 5 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 37 HP - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 51 HP cu Neutrel2 - 20 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 51 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel2 - 12 HP
+
+Eevee - abilitate 2
+Neutrel2 - atac normal
+Eevee - 51 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel2 - 9 HP
+
+Eevee - atac special
+Neutrel2 nu face nimic!
+Eevee - 51 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel2 - 1 HP
+
+Eevee - abilitate 1
+Neutrel2 - atac normal
+Eevee - 51 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 38 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - abilitate 1
+Neutrel1 - atac normal
+Jigglypuff - 38 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+Neutrel1 - 6 HP
+
+Jigglypuff - abilitate 2
+Neutrel1 nu face nimic!
+Jigglypuff - 38 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 4
+Neutrel1 - 3 HP
+
+Jigglypuff - atac normal
+Neutrel1 - atac normal
+Jigglypuff - 38 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 52 HP cu Neutrel1 - 10 HP
+
+Eevee - atac special
+Neutrel1 - atac normal
+Eevee - 52 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel1 - 1 HP
+
+Eevee - atac special
+Neutrel1 - atac normal
+Eevee - 52 HP - abilitate1 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Jigglypuff - 39 HP cu Neutrel1 - 10 HP
+
+Jigglypuff - atac normal
+Neutrel1 - atac normal
+Jigglypuff - 39 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Neutrel1 - 2 HP
+
+Jigglypuff - atac normal
+Neutrel1 - atac normal
+Jigglypuff - 39 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 53 HP cu Neutrel1 - 10 HP
+
+Eevee - atac special
+Neutrel1 - atac normal
+Eevee - 53 HP - abilitate1 cooldown: 0
+Neutrel1 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Jigglypuff - 40 HP cu Neutrel2 - 20 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 40 HP - abilitate2 cooldown: 0
+Neutrel2 - 11 HP
+
+Jigglypuff - abilitate 2
+Neutrel2 - atac normal
+Jigglypuff - 40 HP - abilitate2 cooldown: 4
+Neutrel2 - 8 HP
+
+Jigglypuff - abilitate 1
+Neutrel2 nu face nimic!
+Jigglypuff - 40 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Neutrel2 - 4 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 40 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Neutrel2 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 54 HP cu Neutrel2 - 20 HP
+
+Eevee - abilitate 2
+Neutrel2 - atac normal
+Eevee - 54 HP - abilitate2 cooldown: 3
+Neutrel2 - 17 HP
+
+Eevee - atac special
+Neutrel2 nu face nimic!
+Eevee - 54 HP - abilitate2 cooldown: 2
+Neutrel2 - 6 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 54 HP - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Jigglypuff - 41 HP cu Neutrel2 - 20 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 41 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Neutrel2 - 10 HP
+
+Jigglypuff - atac normal
+Neutrel2 - atac normal
+Jigglypuff - 41 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Jigglypuff
+
+	Se lupta Eevee - 55 HP cu Neutrel2 - 20 HP
+
+Eevee - abilitate 1
+Neutrel2 - atac normal
+Eevee - 55 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Neutrel2 - 15 HP
+
+Eevee - atac special
+Neutrel2 - atac normal
+Eevee - 55 HP - abilitate1 cooldown: 2
+Neutrel2 - 3 HP
+
+Eevee - abilitate 2
+Neutrel2 - atac normal
+Eevee - 55 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Eevee
+
+		Au ajuns in batalia finala:
+	Se lupta Jigglypuff - 42 HP cu Eevee - 56 HP
+
+Jigglypuff - abilitate 2
+Eevee - atac special
+Jigglypuff - 39 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Eevee - 53 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee nu face nimic!
+Jigglypuff - 39 HP - abilitate2 cooldown: 3
+Eevee - 53 HP - abilitate2 cooldown: 1
+
+Jigglypuff - abilitate 1
+Eevee - abilitate 1
+Jigglypuff - 34 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Eevee - 49 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Eevee nu face nimic!
+Jigglypuff - 34 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Eevee - 49 HP - abilitate1 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 31 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Eevee - 49 HP - abilitate1 cooldown: 1
+
+Jigglypuff - abilitate 2
+Eevee - abilitate 2
+Jigglypuff - 28 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Eevee - 46 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+Jigglypuff nu face nimic!
+Eevee nu face nimic!
+Jigglypuff - 28 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Eevee - 46 HP - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 25 HP - abilitate2 cooldown: 2
+Eevee - 46 HP - abilitate2 cooldown: 1
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 22 HP - abilitate2 cooldown: 1
+Eevee - 46 HP - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Eevee - abilitate 1
+Jigglypuff - 17 HP - abilitate2 cooldown: 0
+Eevee - 46 HP - abilitate1 cooldown: 3
+
+Jigglypuff - abilitate 2
+Eevee - abilitate 2
+Jigglypuff - 14 HP - abilitate2 cooldown: 4
+Eevee - 43 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+
+Jigglypuff nu face nimic!
+Eevee nu face nimic!
+Jigglypuff - 14 HP - abilitate2 cooldown: 3
+Eevee - 43 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 11 HP - abilitate2 cooldown: 2
+Eevee - 43 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Jigglypuff - abilitate 1
+Eevee - abilitate 1
+Jigglypuff - 6 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Eevee - 39 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Eevee nu face nimic!
+Jigglypuff - 6 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Eevee - 39 HP - abilitate1 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 3 HP - abilitate1 cooldown: 2
+Eevee - 39 HP - abilitate1 cooldown: 1
+
+Jigglypuff - atac normal
+Eevee - abilitate 2
+Jigglypuff - 0 HP - abilitate1 cooldown: 1
+Eevee - 39 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+	Batalie castigata de Eevee
+
+---Cel mai bun pokemon al lui AntrenorFaraItems este Jigglypuff
+---Cel mai bun pokemon al lui AntrenorulFaraExperienta este Eevee
+
+	Se lupta Jigglypuff - 42 HP cu Eevee - 57 HP
+
+Jigglypuff - atac normal
+Eevee - abilitate 1
+Jigglypuff - 37 HP - abilitate1 cooldown: 0
+Eevee - 57 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 33 HP
+Eevee - 57 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+
+Jigglypuff - abilitate 2
+Eevee - atac special
+Jigglypuff - 29 HP - abilitate2 cooldown: 4
+Eevee - 54 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+
+Jigglypuff - atac normal
+Eevee nu face nimic!
+Jigglypuff - 29 HP - abilitate2 cooldown: 3
+Eevee - 54 HP - abilitate1 cooldown: 0
+
+Jigglypuff - atac normal
+Eevee - abilitate 2
+Jigglypuff - 26 HP - abilitate2 cooldown: 2
+Eevee - 54 HP - abilitate2 cooldown: 3
+
+Jigglypuff nu face nimic!
+Eevee - atac special
+Jigglypuff - 22 HP - abilitate2 cooldown: 1
+Eevee - 54 HP - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 18 HP - abilitate2 cooldown: 0
+Eevee - 54 HP - abilitate2 cooldown: 1
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 14 HP
+Eevee - 54 HP - abilitate2 cooldown: 0
+
+Jigglypuff - abilitate 1
+Eevee - abilitate 1
+Jigglypuff - 9 HP - abilitate1 cooldown: 4
+Eevee - 50 HP - abilitate1 cooldown: 3
+
+Jigglypuff - abilitate 2
+Eevee nu face nimic!
+Jigglypuff - 9 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 4
+Eevee - 47 HP - abilitate1 cooldown: 2
+
+Jigglypuff - atac normal
+Eevee - atac special
+Jigglypuff - 5 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Eevee - 47 HP - abilitate1 cooldown: 1
+
+Jigglypuff - atac normal
+Eevee - abilitate 2
+Jigglypuff - 2 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Eevee - 47 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+
+Jigglypuff nu face nimic!
+Eevee - abilitate 1
+Jigglypuff - 0 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Eevee - 47 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+
+	Batalie castigata de Eevee
+
+				AntrenorulFaraExperienta A CASTIGAT!
+
+TrainerReady{trainer=
+		Trainer{name='AntrenorFaraItems', age=23, pokemons=[Pikachu, Vulpix, Jigglypuff, Eevee], items=[]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=39, normalAttack=0, specialAttack=8, defense=6, specialDefense=7, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=37, normalAttack=6, specialAttack=0, defense=3, specialDefense=5, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}, PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=42, normalAttack=12, specialAttack=0, defense=10, specialDefense=11, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=43, normalAttack=9, specialAttack=0, defense=4, specialDefense=3, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=60, normalAttack=12, specialAttack=0, defense=13, specialDefense=11, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=58, normalAttack=0, specialAttack=16, defense=14, specialDefense=14, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+
+

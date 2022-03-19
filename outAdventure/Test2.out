@@ -1,0 +1,558 @@
+							Testul 2
+			Aventura jucatorilor Daniel si AntrenorulFaraExperienta incepe:
+
+TrainerReady{trainer=
+		Trainer{name='Daniel', age=27, pokemons=[Jigglypuff, Pikachu, Vulpix], items=[Scut.Vestă.Vitamine, Baghetă Magică.Pelerină.Brad de Crăciun, Pelerină.Vitamine.Baghetă Magică]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=51, normalAttack=11, specialAttack=0, defense=9, specialDefense=10, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}, PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=37, normalAttack=0, specialAttack=9, defense=5, specialDefense=8, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=40, normalAttack=9, specialAttack=0, defense=4, specialDefense=9, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=43, normalAttack=9, specialAttack=0, defense=4, specialDefense=3, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=53, normalAttack=5, specialAttack=0, defense=6, specialDefense=4, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=49, normalAttack=0, specialAttack=7, defense=5, specialDefense=5, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+
+
+	Intra in arena: Jigglypuff si Psyduck
+		Au ajuns in batalia finala:
+	Se lupta Jigglypuff - 51 HP cu Psyduck - 43 HP
+
+Jigglypuff - atac normal
+Psyduck - atac normal
+Jigglypuff - 51 HP - abilitate1 cooldown: 3
+Psyduck - 36 HP
+
+Jigglypuff - abilitate 2
+Psyduck - abilitate 1
+Jigglypuff - 49 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Psyduck - 33 HP - abilitate1 cooldown: 4
+
+Jigglypuff - atac normal
+Psyduck nu face nimic!
+Jigglypuff - 49 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Psyduck - 26 HP - abilitate1 cooldown: 3
+
+Jigglypuff - atac normal
+Psyduck - atac normal
+Jigglypuff - 49 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Psyduck - 19 HP - abilitate1 cooldown: 2
+
+Jigglypuff - abilitate 1
+Psyduck - abilitate 2
+Jigglypuff - 47 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Psyduck - 15 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+
+Jigglypuff nu face nimic!
+Psyduck nu face nimic!
+Jigglypuff - 47 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Psyduck - 15 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+
+Jigglypuff - abilitate 2
+Psyduck - atac normal
+Jigglypuff - 47 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Psyduck - 12 HP - abilitate2 cooldown: 3
+
+Jigglypuff - atac normal
+Psyduck nu face nimic!
+Jigglypuff - 47 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Psyduck - 5 HP - abilitate2 cooldown: 2
+
+Jigglypuff - atac normal
+Psyduck - abilitate 1
+Jigglypuff - 45 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Psyduck - 0 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+
+	Batalie castigata de Jigglypuff
+
+	Intra in arena: Pikachu si Meowth
+		Incep luptele cu Neutrel1
+
+	Se lupta Pikachu - 37 HP cu Neutrel1 - 10 HP
+
+Pikachu - atac special
+Neutrel1 - atac normal
+Pikachu - 37 HP
+Neutrel1 - 2 HP
+
+Pikachu - abilitate 1
+Neutrel1 - atac normal
+Pikachu - 37 HP - abilitate1 cooldown: 4
+Neutrel1 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 41 HP cu Neutrel1 - 10 HP
+
+Meowth - abilitate 2
+Neutrel1 - atac normal
+Meowth - 41 HP - abilitate2 cooldown: 3
+Neutrel1 - 9 HP
+
+Meowth - abilitate 1
+Neutrel1 - atac normal
+Meowth - 41 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Neutrel1 - 4 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 41 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Pikachu - 38 HP cu Neutrel1 - 10 HP
+
+Pikachu - atac special
+Neutrel1 - atac normal
+Pikachu - 38 HP - abilitate1 cooldown: 3
+Neutrel1 - 1 HP
+
+Pikachu - abilitate 2
+Neutrel1 - atac normal
+Pikachu - 38 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+Neutrel1 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 54 HP cu Neutrel1 - 10 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 54 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel1 - 5 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 54 HP - abilitate1 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Pikachu - 39 HP cu Neutrel1 - 10 HP
+
+Pikachu - atac special
+Neutrel1 - atac normal
+Pikachu - 39 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Neutrel1 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 55 HP cu Neutrel1 - 10 HP
+
+Meowth - abilitate 2
+Neutrel1 - atac normal
+Meowth - 55 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Neutrel1 - 9 HP
+
+Meowth - abilitate 1
+Neutrel1 - atac normal
+Meowth - 55 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Neutrel1 - 4 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 55 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel1 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Incep luptele cu Neutrel1
+
+	Se lupta Pikachu - 40 HP cu Neutrel1 - 10 HP
+
+Pikachu - atac special
+Neutrel1 - atac normal
+Pikachu - 40 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Neutrel1 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 56 HP cu Neutrel1 - 10 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 56 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel1 - 3 HP
+
+Meowth - abilitate 2
+Neutrel1 - atac normal
+Meowth - 56 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Neutrel1 - 2 HP
+
+Meowth - atac normal
+Neutrel1 - atac normal
+Meowth - 56 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Neutrel1 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 41 HP cu Neutrel2 - 20 HP
+
+Pikachu - abilitate 1
+Neutrel2 - atac normal
+Pikachu - 41 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Neutrel2 - 14 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 41 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Neutrel2 - 2 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 41 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 57 HP cu Neutrel2 - 20 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 57 HP - abilitate2 cooldown: 1
+Neutrel2 - 12 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 57 HP - abilitate2 cooldown: 0
+Neutrel2 - 4 HP
+
+Meowth - abilitate 1
+Neutrel2 - atac normal
+Meowth - 57 HP - abilitate1 cooldown: 4
+Neutrel2 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Incep luptele cu Neutrel2
+
+	Se lupta Pikachu - 42 HP cu Neutrel2 - 20 HP
+
+Pikachu - abilitate 2
+Neutrel2 - atac normal
+Pikachu - 42 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+Neutrel2 - 16 HP
+
+Pikachu - atac special
+Neutrel2 nu face nimic!
+Pikachu - 42 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Neutrel2 - 3 HP
+
+Pikachu - atac special
+Neutrel2 - atac normal
+Pikachu - 42 HP - abilitate2 cooldown: 3
+Neutrel2 - 0 HP
+
+	Batalie castigata de Pikachu
+
+	Se lupta Meowth - 58 HP cu Neutrel2 - 20 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 58 HP - abilitate1 cooldown: 3
+Neutrel2 - 11 HP
+
+Meowth - abilitate 2
+Neutrel2 - atac normal
+Meowth - 58 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+Neutrel2 - 10 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 58 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+Neutrel2 - 1 HP
+
+Meowth - atac normal
+Neutrel2 - atac normal
+Meowth - 58 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+Neutrel2 - 0 HP
+
+	Batalie castigata de Meowth
+
+		Au ajuns in batalia finala:
+	Se lupta Pikachu - 43 HP cu Meowth - 59 HP
+
+Pikachu - abilitate 1
+Meowth - abilitate 1
+Pikachu - 38 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Meowth - 59 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth - abilitate 2
+Pikachu - 37 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Meowth - 59 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 37 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Meowth - 54 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Pikachu - abilitate 2
+Meowth - atac normal
+Pikachu - 37 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 5
+Meowth - 50 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth nu face nimic!
+Pikachu - 37 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 4
+Meowth - 45 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Pikachu - abilitate 1
+Meowth - abilitate 2
+Pikachu - 36 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Meowth - 45 HP - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 36 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Meowth - 40 HP - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth - abilitate 1
+Pikachu - 31 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Meowth - 40 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 31 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Meowth - 35 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+
+Pikachu - abilitate 2
+Meowth - abilitate 2
+Pikachu - 31 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Meowth - 35 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 31 HP - abilitate2 cooldown: 4
+Meowth - 30 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Pikachu - abilitate 1
+Meowth - atac normal
+Pikachu - 31 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 3
+Meowth - 24 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth - abilitate 1
+Pikachu - 26 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 2
+Meowth - 24 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth - abilitate 2
+Pikachu - 25 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 1
+Meowth - 24 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 25 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 0
+Meowth - 19 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+
+Pikachu - abilitate 2
+Meowth - atac normal
+Pikachu - 25 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 5
+Meowth - 15 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+
+Pikachu - abilitate 1
+Meowth nu face nimic!
+Pikachu - 25 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 4
+Meowth - 9 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth - abilitate 2
+Pikachu - 24 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 3
+Meowth - 9 HP - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - abilitate 1
+Pikachu - 19 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 2
+Meowth - 9 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 19 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 1
+Meowth - 4 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 19 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 0
+Meowth - 0 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+	Batalie castigata de Pikachu
+
+	Intra in arena: Vulpix si Eevee
+		Au ajuns in batalia finala:
+	Se lupta Vulpix - 40 HP cu Eevee - 39 HP
+
+Vulpix - atac normal
+Eevee - abilitate 1
+Vulpix - 35 HP - abilitate2 cooldown: 5
+Eevee - 35 HP - abilitate1 cooldown: 3
+
+Vulpix - atac normal
+Eevee - abilitate 2
+Vulpix - 32 HP - abilitate2 cooldown: 4
+Eevee - 31 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 3
+
+Vulpix nu face nimic!
+Eevee - atac special
+Vulpix - 32 HP - abilitate2 cooldown: 3
+Eevee - 31 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 2
+
+Vulpix - atac normal
+Eevee - atac special
+Vulpix - 32 HP - abilitate2 cooldown: 2
+Eevee - 27 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 1
+
+Vulpix - abilitate 1
+Eevee - atac special
+Vulpix - 32 HP - abilitate1 cooldown: 6 - abilitate2 cooldown: 1
+Eevee - 19 HP - abilitate2 cooldown: 0
+
+Vulpix - atac normal
+Eevee nu face nimic!
+Vulpix - 32 HP - abilitate1 cooldown: 5 - abilitate2 cooldown: 0
+Eevee - 15 HP
+
+Vulpix - abilitate 2
+Eevee - atac special
+Vulpix - 32 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 7
+Eevee - 13 HP
+
+Vulpix - atac normal
+Eevee - atac special
+Vulpix - 32 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 6
+Eevee - 9 HP
+
+Vulpix - atac normal
+Eevee - abilitate 1
+Vulpix - 27 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+Eevee - 5 HP - abilitate1 cooldown: 3
+
+Vulpix - atac normal
+Eevee - atac special
+Vulpix - 27 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Eevee - 1 HP - abilitate1 cooldown: 2
+
+Vulpix - atac normal
+Eevee - abilitate 2
+Vulpix - 24 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 3
+Eevee - 0 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+	Batalie castigata de Vulpix
+
+---Cel mai bun pokemon al lui Daniel este Pikachu
+---Cel mai bun pokemon al lui AntrenorulFaraExperienta este Meowth
+
+	Se lupta Pikachu - 44 HP cu Meowth - 59 HP
+
+Pikachu - abilitate 2
+Meowth - abilitate 2
+Pikachu - 44 HP - abilitate2 cooldown: 5
+Meowth - 59 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 44 HP - abilitate2 cooldown: 4
+Meowth - 53 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 44 HP - abilitate2 cooldown: 3
+Meowth - 47 HP - abilitate2 cooldown: 1
+
+Pikachu - abilitate 1
+Meowth - atac normal
+Pikachu - 44 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+Meowth - 41 HP - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth - abilitate 2
+Pikachu - 43 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+Meowth - 41 HP - abilitate2 cooldown: 3
+
+Pikachu - atac special
+Meowth - abilitate 1
+Pikachu - 38 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+Meowth - 41 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 38 HP - abilitate1 cooldown: 1
+Meowth - 35 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 38 HP - abilitate1 cooldown: 0
+Meowth - 29 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Pikachu - abilitate 1
+Meowth - abilitate 2
+Pikachu - 37 HP - abilitate1 cooldown: 4
+Meowth - 29 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+
+Pikachu - abilitate 2
+Meowth - atac normal
+Pikachu - 37 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 5
+Meowth - 25 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth nu face nimic!
+Pikachu - 37 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 4
+Meowth - 19 HP - abilitate2 cooldown: 1
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 37 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 3
+Meowth - 13 HP - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth - abilitate 2
+Pikachu - 36 HP - abilitate1 cooldown: 0 - abilitate2 cooldown: 2
+Meowth - 13 HP - abilitate2 cooldown: 3
+
+Pikachu - abilitate 1
+Meowth - abilitate 1
+Pikachu - 31 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 1
+Meowth - 13 HP - abilitate1 cooldown: 4 - abilitate2 cooldown: 2
+
+Pikachu - atac special
+Meowth - atac normal
+Pikachu - 31 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 0
+Meowth - 7 HP - abilitate1 cooldown: 3 - abilitate2 cooldown: 1
+
+Pikachu - abilitate 2
+Meowth - atac normal
+Pikachu - 31 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 5
+Meowth - 3 HP - abilitate1 cooldown: 2 - abilitate2 cooldown: 0
+
+Pikachu - atac special
+Meowth nu face nimic!
+Pikachu - 31 HP - abilitate1 cooldown: 1 - abilitate2 cooldown: 4
+Meowth - 0 HP - abilitate1 cooldown: 1
+
+	Batalie castigata de Pikachu
+
+				Daniel A CASTIGAT!
+
+TrainerReady{trainer=
+		Trainer{name='Daniel', age=27, pokemons=[Jigglypuff, Pikachu, Vulpix], items=[Scut.Vestă.Vitamine, Baghetă Magică.Pelerină.Brad de Crăciun, Pelerină.Vitamine.Baghetă Magică]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Jigglypuff', HP=52, normalAttack=12, specialAttack=0, defense=10, specialDefense=11, ability1=Ability{dmg=4, stun=true, dodge=false, cd=4}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=4}}, PokemonReady{pokemon=
+			Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=17, defense=13, specialDefense=16, ability1=Ability{dmg=6, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=4, stun=true, dodge=true, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Vulpix', HP=41, normalAttack=10, specialAttack=0, defense=5, specialDefense=10, ability1=Ability{dmg=8, stun=true, dodge=false, cd=6}, ability2=Ability{dmg=2, stun=false, dodge=true, cd=7}}], nrPokemon=3}
+TrainerReady{trainer=
+		Trainer{name='AntrenorulFaraExperienta', age=10, pokemons=[Psyduck, Meowth, Eevee], items=[Brad de Crăciun.Săbiuță, Vitamine.Vestă.Scut, Vestă.Baghetă Magică.Scut]}, pokemons=
+		[PokemonReady{pokemon=
+			Pokemon{name='Psyduck', HP=43, normalAttack=9, specialAttack=0, defense=4, specialDefense=3, ability1=Ability{dmg=2, stun=false, dodge=false, cd=4}, ability2=Ability{dmg=2, stun=true, dodge=false, cd=5}}, PokemonReady{pokemon=
+			Pokemon{name='Meowth', HP=59, normalAttack=11, specialAttack=0, defense=12, specialDefense=10, ability1=Ability{dmg=5, stun=false, dodge=true, cd=4}, ability2=Ability{dmg=1, stun=false, dodge=true, cd=3}}, PokemonReady{pokemon=
+			Pokemon{name='Eevee', HP=49, normalAttack=0, specialAttack=7, defense=5, specialDefense=5, ability1=Ability{dmg=5, stun=false, dodge=false, cd=3}, ability2=Ability{dmg=3, stun=true, dodge=false, cd=3}}], nrPokemon=3}
+
+
